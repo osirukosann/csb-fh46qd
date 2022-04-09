@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://osirukosann.github.io/csb-fh46qd/static/js/main.ab62a7e1.chunk.js",
+    "main.js.map": "https://osirukosann.github.io/csb-fh46qd/static/js/main.ab62a7e1.chunk.js.map",
+    "runtime-main.js": "https://osirukosann.github.io/csb-fh46qd/static/js/runtime-main.bfd974e5.js",
+    "runtime-main.js.map": "https://osirukosann.github.io/csb-fh46qd/static/js/runtime-main.bfd974e5.js.map",
+    "static/js/2.92f2588e.chunk.js": "https://osirukosann.github.io/csb-fh46qd/static/js/2.92f2588e.chunk.js",
+    "static/js/2.92f2588e.chunk.js.map": "https://osirukosann.github.io/csb-fh46qd/static/js/2.92f2588e.chunk.js.map",
+    "index.html": "https://osirukosann.github.io/csb-fh46qd/index.html",
+    "static/js/2.92f2588e.chunk.js.LICENSE.txt": "https://osirukosann.github.io/csb-fh46qd/static/js/2.92f2588e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfd974e5.js",
+    "static/js/2.92f2588e.chunk.js",
+    "static/js/main.ab62a7e1.chunk.js"
+  ]
+}
